@@ -12,6 +12,7 @@ obar
 should result in the ouput: 
 ```
 fo+obar=foobar
+```
 
 This flexible solution focuses on the following aspects:
 1. Clean code/OOP/SOLID/etc.
